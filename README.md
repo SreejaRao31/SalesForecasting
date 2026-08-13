@@ -581,6 +581,4 @@ The project demonstrates a simple hybrid approach to sales forecasting by combin
 
 
 
-## Note
 
-This project was developed for academic and learning purposes as a study of sales forecasting, time-series analysis and machine learning.
