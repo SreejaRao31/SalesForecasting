@@ -29,7 +29,7 @@ The idea is to first use ARIMA to capture the time-based pattern in sales. The e
 - [Project Structure](#project-structure)
 - [Future Improvements](#future-improvements)
 - [Conclusion](#conclusion)
-- [Author](#author)
+
 
 ---
 
@@ -579,15 +579,7 @@ The project demonstrates a simple hybrid approach to sales forecasting by combin
 
 ---
 
-# Author
 
-**Your Name**
-
-Computer Science and Engineering
-
-GitHub: `https://github.com/your-username`
-
----
 
 ## Note
 
